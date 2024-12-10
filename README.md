@@ -123,7 +123,9 @@ Unique and professional logo reflecting the spirit of fitness.
 ## 🚀 Getting Started
 
 **1️⃣- Clone the repository:** <br>
+```
  git clone https://github.com/YourUsername/Sportex.git <br>
+```
 **2️⃣- Open the project in Android Studio.** <br>
 **3️⃣- Build and run the app on an emulator or physical device.**
 
