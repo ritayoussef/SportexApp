@@ -1,4 +1,4 @@
-### 📱 Sports Tracker App
+# 📱 Sports Tracker App
 
 Sportex is a robust fitness tracking application that enables users to monitor their physical fitness, set personalized goals, and engage in tailored workout programs. Whether it's muscular strength, endurance, or cardiovascular health, Sportex helps users achieve their fitness aspirations with ease.
 
@@ -67,13 +67,13 @@ Sportex uses DataStore for data persistence. The application leverages Gson for 
   
 ## 💾 Key Data Operations
 
-# Workouts
+### Workouts
 
 - Add: Add new workouts with relevant details.
 - Edit: Modify an existing workout's details.
 - Delete: Remove a workout.
 - Complete: Mark a workout as completed. The status persists across app restarts.
-# Goals
+### Goals
 
 - Add: Add new goals with relevant details.
 - Edit: Modify an existing goal's details.
@@ -89,7 +89,7 @@ Sportex uses DataStore for data persistence. The application leverages Gson for 
 
 ## 📦 Dependencies
 
-# Libraries Used:
+### Libraries Used:
  - Gson:
 For serialization and deserialization of Workout and Goal objects.
 Official documentation: Gson
