@@ -141,7 +141,7 @@ For storing and retrieving persistent key-value data. <br>
 
 Developed by **Team Longfoot** 🚀: <br>
 
-👩‍💻 Rita Youssef
-👩‍💻 Naomie Edward
-👨‍💻 Eric Stoian
-👨‍💻 Alexander Burlec-Plaies
+👩‍💻 Rita Youssef  <br>
+👩‍💻 Naomie Edward  <br>
+👨‍💻 Eric Stoian  <br>
+👨‍💻 Alexander Burlec-Plaies  <br>
