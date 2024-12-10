@@ -97,12 +97,12 @@ Sportex uses DataStore for data persistence. The application leverages Gson for 
 **Color Theme** <br>
 
 Modern and visually appealing color palette for an intuitive user experience.
-- ![Light Blue](./palette.png) <br>
+ ![Light Blue](./palette.png) <br>
 
 **Application Logo** <br>
 
 Unique and professional logo reflecting the spirit of fitness. <br>
-- ![Sportex Logo](./Sportex-removebg-preview.png)
+![Sportex Logo](./Sportex-removebg-preview.png)
 
 
 ## 🚀 Getting Started
@@ -115,13 +115,13 @@ Unique and professional logo reflecting the spirit of fitness. <br>
 ## 📦 Dependencies
 
 ### Libraries Used:
- - Gson:
-For serialization and deserialization of Workout and Goal objects.
-Official documentation: Gson
-- DataStore:
-For storing and retrieving persistent key-value data.
-Official documentation: DataStore
+ **- Gson:**  <br>
+For serialization and deserialization of Workout and Goal objects.  <br>
+Official documentation: [Gson](https://medium.com/@hissain.khan/parsing-with-google-gson-library-in-android-kotlin-7920e26f5520)
+**- DataStore:**  <br>
+For storing and retrieving persistent key-value data. <br>
+
 
 ## 🤝 Contributors
-Rita Youssef, Naomie Edward, Eric Stoian and Alexander Burlec-Plaies
-Team Longfoot
+Rita Youssef, Naomie Edward, Eric Stoian and Alexander Burlec-Plaies <br>
+**Team Longfoot**
