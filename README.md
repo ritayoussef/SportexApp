@@ -96,7 +96,7 @@ Sportex uses DataStore for data persistence. The application leverages Gson for 
 
 **Color Theme** <br>
 Modern and visually appealing color palette for an intuitive user experience.
-
+- [Arcade](./assets/fonts/karmatic-arcade-font/KarmaticArcade-6Yrp1.ttf): Retro arcade-style font for UI elements.
 **Application Logo** <br>
 Unique and professional logo reflecting the spirit of fitness. 
 
