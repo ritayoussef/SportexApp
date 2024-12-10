@@ -62,13 +62,13 @@ Redirects to the main menu after successful registration.
 Sportex uses DataStore for data persistence. The application leverages Gson for serializing and deserializing complex data types like Workout and Goal into JSON strings.
 
 ## How Data is Stored:
-# Gson Library:
+### Gson Library:
 - Converts Workout and Goal objects into JSON strings for storage.
 - Converts JSON strings back into objects when retrieving data.
-# DataStore:
+### DataStore:
 - Stores the serialized JSON strings for workouts, goals, and user data.
 - Ensures data is retained across app restarts.
-# Gson Library Integration:
+### Gson Library Integration:
 - Gson is used for its simplicity in handling JSON serialization and deserialization.
 - This approach avoids the overhead of database setup, making it lightweight and efficient.
   
