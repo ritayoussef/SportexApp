@@ -92,6 +92,15 @@ Sportex uses DataStore for data persistence. The application leverages Gson for 
 - Delete: Remove a goal.
 - Complete: Mark a goal as completed. The completion status persists across app restarts.
   
+## 🎨 Application Design
+
+**Color Theme** <br>
+Modern and visually appealing color palette for an intuitive user experience.
+
+**Application Logo** <br>
+Unique and professional logo reflecting the spirit of fitness. 
+
+
 ## 🚀 Getting Started
 
 **1- Clone the repository:** <br>
