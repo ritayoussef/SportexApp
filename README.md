@@ -16,7 +16,7 @@ Sportex is a robust fitness tracking application that empowers users to monitor 
 
 ### **2. Profile** 🧑‍💻
 - Displays user information such as:
-  - 👤 Age, Name, Height, Weight, and more.
+  - 👤 Age, Name, Height, Weight.
 - Tracks completed goals and achievements 🏆.
 - Includes a **navigation bar** 🚀 for seamless app exploration.
 
