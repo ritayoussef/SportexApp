@@ -132,7 +132,7 @@ Unique and professional logo reflecting the spirit of fitness.
 ### Libraries Used:
  **- 📜 Gson:**  <br>
 For serialization and deserialization of Workout and Goal objects.  <br>
-Official documentation: [Gson](https://medium.com/@hissain.khan/parsing-with-google-gson-library-in-android-kotlin-7920e26f5520)
+Official documentation: [Gson](https://medium.com/@hissain.khan/parsing-with-google-gson-library-in-android-kotlin-7920e26f5520)   <br>
 **- 💾 DataStore:**  <br>
 For storing and retrieving persistent key-value data. <br>
 
