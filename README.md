@@ -4,35 +4,35 @@ Sportex is a robust fitness tracking application that enables users to monitor t
 
 ## 🌟 Features and Scope
 
-1. Main Menu
+** 1. Main Menu **
 - Weekly Summary: Displays completed workouts and calories burned so far.
 - Today’s Plan: Highlights the active goals and planned workouts for the day.
 - Settings: Provides customization options for the app.
   
-2. Profile
+** 2. Profile ** 
 - Displays user information such as age, name, height, weight, and more.
 - Tracks completed goals and achievements.
 - Offers navigation to other sections of the app.
   
-3. Planner
+** 3. Planner ** 
 - A calendar view for scheduling workouts and goals.
 - Allows users to add and view upcoming workouts.
   
-4. Goal Page
+** 4. Goal Page **
 - Displays active and upcoming goals.
 Users can:
 - Edit existing goals.
 - Delete completed or irrelevant goals.
 - Mark goals as completed.
   
-5. Workout Page
+** 5. Workout Page **
 - Displays active and upcoming workouts.
 Users can:
 - Edit existing workouts.
 - Delete completed or irrelevant workouts.
 - Mark workouts as completed.
   
-6. Workout/Goal Creation
+** 6. Workout/Goal Creation **<br> 
 A page for creating workouts or goals with fields like:
 - Name
 - Type of workout/goal
@@ -40,7 +40,7 @@ A page for creating workouts or goals with fields like:
 - Description
 - AI Assistance: Suggests workouts based on fitness objectives (e.g., weight loss, strength training).
   
-7. Login & Register Screens
+** 7. Login & Register Screens **
 - Login Screen:
 Users can log in with their username and password.
 Redirects to the main menu on successful login.
