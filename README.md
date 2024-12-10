@@ -95,10 +95,13 @@ Sportex uses DataStore for data persistence. The application leverages Gson for 
 ## 🎨 Application Design
 
 **Color Theme** <br>
+
 Modern and visually appealing color palette for an intuitive user experience.
-- [Light Blue](./palette.png): visually appealing color palette
+- [Light Blue](palette.png): visually appealing color palette  <br>
+
 **Application Logo** <br>
-Unique and professional logo reflecting the spirit of fitness.
+
+Unique and professional logo reflecting the spirit of fitness. <br>
 - [Logo](./Sportex-removebg-preview.png): Sportex Logo
 
 
