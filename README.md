@@ -1,4 +1,4 @@
-# 📱 Sports Tracker App
+# 📱 Sportex Application
 
 Sportex is a robust fitness tracking application that enables users to monitor their physical fitness, set personalized goals, and engage in tailored workout programs. Whether it's muscular strength, endurance, or cardiovascular health, Sportex helps users achieve their fitness aspirations with ease.
 
