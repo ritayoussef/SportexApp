@@ -89,7 +89,7 @@ Sportex uses DataStore for data persistence. The application leverages Gson for 
   
 ## 🚀 Getting Started
 
-1- Clone the repository:
+1- Clone the repository: <br> 
  git clone https://github.com/YourUsername/Sportex.git
 2- Open the project in Android Studio.
 3- Build and run the app on an emulator or physical device.
