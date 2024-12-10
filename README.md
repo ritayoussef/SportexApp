@@ -52,14 +52,14 @@ A page for creating workouts or goals with fields like:
   
 **7. Login & Register Screens**
 
-- Login Screen:
-Users can log in with their username and password.
-Redirects to the main menu on successful login.
-Allows navigation to the register screen for new users.
-- Register Screen:
-Users can register by providing their details (username, password, personal info).
-Stores user data using the DataStore mechanism for persistence and appears on Profile Screen.
-Redirects to the main menu after successful registration.
+**- Login Screen:** <br> 
+Users can log in with their username and password. <br> 
+Redirects to the main menu on successful login. <br> 
+Allows navigation to the register screen for new users. <br> 
+**- Register Screen:** <br> 
+Users can register by providing their details (username, password, personal info). <br> 
+Stores user data using the DataStore mechanism for persistence and appears on Profile Screen. <br> 
+Redirects to the main menu after successful registration. <br> 
 
 ## 🛠️ Data Persistence
 
